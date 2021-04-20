@@ -1,0 +1,1 @@
+NGINX Logs folder
